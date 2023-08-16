@@ -1,10 +1,3 @@
-
-![Logo](https://github.com/Angiea18/2-proyecto-individual-DataAnalytics/blob/main/imagenes/criptomonedas.jpg)
-## PROYECTO INDIVIDUAL Nº2 - DATA ANALYTICS
-
-![Logo](https://github.com/Angiea18/2-proyecto-individual-DataAnalytics/blob/main/imagenes/criptomonedas.jpg)
-## PROYECTO INDIVIDUAL Nº2 - DATA ANALYTICS
-
 ![Logo](https://github.com/Angiea18/2-proyecto-individual-DataAnalytics/blob/main/imagenes/criptomonedas.jpg)
 ## PROYECTO INDIVIDUAL Nº2 - DATA ANALYTICS
 
