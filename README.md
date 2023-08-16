@@ -1,9 +1,9 @@
-![Logo](https://github.com/Angiea18/2-proyecto-individual-DataAnalytics/blob/main/imagenes/criptomonedas.jpg)
+![archivo](https://github.com/Angiea18/2-proyecto-individual-DataAnalytics/blob/main/imagenes/henry.jpg)
 ## PROYECTO INDIVIDUAL Nº2 - DATA ANALYTICS
 
 Cryptocurrency Market Data Analytics
-![archivo](https://github.com/Angiea18/2-proyecto-individual-DataAnalytics/blob/main/imagenes/henry.jpg)
 
+![Logo](https://github.com/Angiea18/2-proyecto-individual-DataAnalytics/blob/main/imagenes/criptomonedas.jpg)
 **`by Angie Arango Zapata`**
 
 
@@ -60,11 +60,15 @@ Refleja la cantidad total de una criptomoneda comprada o vendida en un período 
 ## Extracción de la información
 
 Los datos fueron obtenidos de la API CoinGecko. Una vez realizada la selección de las monedas, se procedió a realizar solicitudes a la API utilizando Python. Esto se logró mediante la creación de funciones personalizadas. A partir de estos datos, se construyeron dos DataFrames: uno con 8 monedas caracterizadas por su estabilidad **df_stable** y otro con 5 monedas de mayor capitalización **df_top**.
+
 ![archivo](https://github.com/Angiea18/2-proyecto-individual-DataAnalytics/blob/main/stablecoins.ipynb)
+
 ![archivo](https://github.com/Angiea18/2-proyecto-individual-DataAnalytics/blob/main/top_currency.ipynb)
 
 Finalmente se creo un DataFrame **df_cryptocurrency** en el que se unieron los otros dos ya mencionados y a este se le realizo el proceso de EDA y el dashboard. 
+
 ![archivo](https://github.com/Angiea18/2-proyecto-individual-DataAnalytics/blob/main/cryptocurrency_EDA.ipynb)
+
 ## EDA
 
 En nuestro proceso, hacemos uso de diversas librerías que son esenciales para llevar a cabo un análisis exploratorio de datos de manera efectiva. Algunas de las librerías clave que utilizamos son:
@@ -94,6 +98,7 @@ En el proceso de análisis exploratorio de datos, ejecutamos las siguientes etap
 Finalmente, concluimos el proceso guardando el dataframe resultante en un archivo CSV llamado *cryptocurrancy_final.cvs*, el cual posteriormente utilizamos para alimentar un dashboard que facilita la visualización y comprensión de los datos de manera interactiva y efectiva.
 
 El EDA se encuentra ![aquí](https://github.com/Angiea18/2-proyecto-individual-DataAnalytics/blob/main/cryptocurrency_EDA.ipynb)
+
 ## Dashboard
 #Importación de datos.
 Una vez importado el csv cryptocurrency_final, se optó por dividir el dataset en 1 tabla de hecho y tablas de dimensiones según las siguientes variables elegidas del dataset:
