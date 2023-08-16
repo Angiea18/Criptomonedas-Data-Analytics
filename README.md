@@ -2,7 +2,7 @@
 ## PROYECTO INDIVIDUAL Nº2 - DATA ANALYTICS
 
 Cryptocurrency Market Data Analytics
-![archivo](https://github.com/Angiea18/2-proyecto-individual-DataAnalytics/blob/main/imagenes/criptomonedas.jpg)
+![archivo](https://github.com/Angiea18/2-proyecto-individual-DataAnalytics/blob/main/imagenes/henry.jpg)
 
 **`by Angie Arango Zapata`**
 
