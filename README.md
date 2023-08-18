@@ -2,7 +2,7 @@
 
 Cryptocurrency Market Data Analytics
 
-![Cripto](https://github.com/Angiea18/2-proyecto-individual-DataAnalytics/blob/main/imagenes/criptomonedas.jpg)
+![Cripto](https://github.com/Angiea18/Criptomonedas-Data-Analytics/blob/main/src/criptomonedas.jpg)
 
 
 **`by Angie Arango Zapata`**
