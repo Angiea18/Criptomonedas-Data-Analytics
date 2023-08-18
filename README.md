@@ -62,7 +62,7 @@ Los datos fueron obtenidos de la API CoinGecko. Una vez realizada la selección 
 
 [topcurrency](https://github.com/Angiea18/2-proyecto-individual-DataAnalytics/blob/main/top_currency.ipynb)
 
-Finalmente se creo un DataFrame **df_cryptocurrency** en el que se unieron los otros dos ya mencionados y a este se le realizo el proceso de EDA y el dashboard. 
+Finalmente se creo un DataFrame **`df_cryptocurrency`** en el que se unieron los otros dos ya mencionados y a este se le realizo el proceso de EDA y el dashboard. 
 
 [cryptocurrency](https://github.com/Angiea18/2-proyecto-individual-DataAnalytics/blob/main/cryptocurrency_EDA.ipynb)
 
