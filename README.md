@@ -141,8 +141,7 @@ Esta página se enfoca en los detalles más específicos de las criptomonedas an
 ## KPIs
 Esta página alberga los **`Indicadores Clave de Desempeño (KPIs)`** más relevantes del análisis. El `"Porcentaje de Cambio de Mercado de Capitalización por Moneda"` muestra la evolución de la capitalización de mercado para cada criptomoneda. El `"Porcentaje de Cambio en el Precio Promedio"` refleja cómo los precios han variado en el tiempo. Finalmente, el `"Volumen Total de Negociación por Moneda"` detalla el nivel de actividad comercial. Estos KPIs proporcionan una instantánea rápida de los aspectos cruciales del análisis de criptomonedas.
 
-![KPIs](https://github.com/Angiea18/Criptomonedas-Data-Analytics/blob/main/src/KPIs.png)
-
+![KPIs](https://github.com/Angiea18/Criptomonedas-Data-Analytics/blob/main/src/KPI.png)
 
 
 ## Conclusiones
