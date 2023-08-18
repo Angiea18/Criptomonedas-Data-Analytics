@@ -144,6 +144,7 @@ Esta página alberga los **`Indicadores Clave de Desempeño (KPIs)`** más relev
 ![KPIs](https://github.com/Angiea18/Criptomonedas-Data-Analytics/blob/main/src/KPIs.png)
 
 
+
 ## Conclusiones
 
 - **Porcentaje de Cambio en el Mercado de Capitalización por Moneda:** La mayoría de las criptomonedas experimentaron un crecimiento en su capitalización de mercado, indicando un interés continuo en estas monedas líderes. Sin embargo, algunas monedas como `BUSD` y `TUSD` registraron disminuciones significativas en su capitalización.
